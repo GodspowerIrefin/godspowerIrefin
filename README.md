@@ -1,22 +1,50 @@
-# 💫 Hello, I'm Godspower Irefin! 👋<br>
-<br>🎓 Education: I am currently pursuing a Bachelor's degree in Computer Information Systems at the University of Akron, with a focus on Cybersecurity and Software Development. I’m set to graduate in May 2026<br><br>💻 Experience: I have hands-on experience from roles at:<br><br>Sherwin Williams Hyland Software<br><br>Baltimore County Public Schools<br><br>Geetee Management Services<br><br>I’ve honed my skills in troubleshooting, system health monitoring, and collaborating on enterprise-wide IT projects.<br><br>🔍 Skills and Tools:<br><br>Programming: Java, SQL, Visual Basics<br><br>Frameworks: Spring Boot<br><br>Tools: IntelliJ, Visual Studio, Putty, PowerApps, Confluence, Slack, DBeaver<br><br>Platforms: Unix/Linux, Networking, Routing<br><br>🌟 Focus Areas: Cybersecurity, Software Development, Data Science, and IT Systems Engineering.<br><br>What I’m Working On<br><br>Exploring projects that combine my knowledge in cybersecurity and software development.<br><br>
+💫 Hello, I'm Godspower Irefin 👋
+
+I’m a Systems Engineer & Cybersecurity Student passionate about building automated, scalable solutions using Python and modern DevOps tools.
+
+🎓 Education
+
+B.S. Cybersecurity & Information Assurance, Western Governors University
+(Expected Graduation – Dec 2026)
+
+Formerly studied Computer Information Systems at The University of Akron.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/godspowerirefin/) 
+💻 Experience
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+Systems Engineer Intern @ Progressive Insurance (A.C.E Team)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GodspowerIrefin&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GodspowerIrefin&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GodspowerIrefin&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Automated internal processes and built a LangChain + Azure chatbot integrated with SharePoint API for document retrieval.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GodspowerIrefin&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+Created Splunk dashboards for monitoring automation pipelines and risk analysis.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Previous Internships @ Sherwin-Williams & Hyland Software
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Worked on database administration, cloud infrastructure, and platform engineering.
+
+Improved reliability of internal systems and enhanced observability across teams.
+
+
+🧠 Core Skills
+
+Languages: Python • Java • PowerShell • Bash
+
+Tools & Frameworks: Azure • Splunk • Docker • GitHub Actions • Postman • Spring Boot
+
+Databases: PostgreSQL • MongoDB • MySQL • SQL Server
+
+Focus Areas: Automation • Site Reliability Engineering • Networking • Cloud Security • Data Analytics
+
+
+🚀 What I’m Working On
+
+Building Python automation projects that solve real-world engineering problems.
+
+Learning CI/CD, Kubernetes, and cloud observability best practices.
+
+
+🌐 Connect
+
+💼 LinkedIn
+ | 📧 godspowerirefin@gmail.com
+ | 🌎 BizFlowAI.org
