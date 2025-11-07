@@ -2,33 +2,17 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I’m a **Systems Engineer & Cybersecurity Student** passionate about building automated, reliable, and scalable solutions using **Python**, **Azure**, and modern **DevOps tools**.
+I’m a **Systems Engineer & Cybersecurity Student** focused on building **automated, reliable, and scalable systems** through cloud infrastructure, observability, and DevOps principles.
 
 ---
 
-### 💻 Experience  
+### 💻 Professional Experience  
 
-**Systems Engineer Intern @ Progressive Insurance (Automation & Operations Teams)**  
-*May 2025 – Aug 2025 | Remote*  
-- Built and managed **Ansible/Docker pipelines**, reducing system configuration time by **45%** across Azure environments.  
-- Debugged and optimized **C#-based pipelines**, improving uptime by **30%**.  
-- Deployed a **LangChain AI Agent** integrated with **Microsoft Graph API** to retrieve SharePoint docs, cutting lookup time by **65%**.  
-- Added observability metrics (latency, errors, usage) to improve reliability and cut debugging time by **40%**.  
-- Configured **Splunk ITSI dashboards & KPIs**, reducing false alerts by **35%** and MTTR by **28%**.  
-- Automated **Python health checks**, saving **10+ hours/week** in manual monitoring.  
-
-**Software Engineer Intern @ Sherwin-Williams**  
-*May 2023 – Aug 2024 | Cleveland, OH*  
-- Tuned **Oracle 19C & PostgreSQL databases**, improving query performance by **40%**.  
-- Built **PL/SQL and Python ETL scripts** integrating data from **5+ sources** to enhance analytics accuracy.  
-- Automated **backups & deployments** using **Ansible & Jenkins**, reducing DBA workload by **50%**.  
-- Developed **Spring Boot microservices & ReactJS components**, improving platform response times by **22%**.  
-- Integrated **APIs with Azure Cloud**, reducing deployment time from **20 to 5 minutes**.  
-- Enhanced **CI/CD pipelines** (Jenkins, GitHub Actions) and collaborated in **Agile sprints** for production reliability.  
-
-**Previous Internship @ Hyland Software**  
-- Assisted in cloud migration projects using **Azure** and **Kubernetes**.  
-- Contributed to observability dashboards and automation scripts for system uptime monitoring.  
+- Designed and deployed **automation pipelines** using tools like **Ansible, Docker, and Python** to improve configuration efficiency and system reliability.  
+- Monitored infrastructure and optimized **service performance using Splunk ITSI and SRE best practices**.  
+- Implemented **AI-driven automation** for internal knowledge retrieval and monitoring to enhance team productivity.  
+- Contributed to **database optimization, CI/CD automation, and cloud integration** across enterprise-scale environments.  
+- Collaborated within **Agile and DevOps teams**, focusing on uptime, scalability, and observability of key systems.  
 
 ---
 
@@ -36,9 +20,9 @@ I’m a **Systems Engineer & Cybersecurity Student** passionate about building a
 
 **Languages:** Python • C# • SQL • PowerShell • Bash  
 **Tools & Platforms:** Azure • Splunk (Core, ITSI, Observability) • Ansible • Docker • Jenkins • GitHub Actions • Postman  
-**Databases:** Oracle 19C • PostgreSQL • MongoDB • MySQL • SQL Server  
-**Focus Areas:** Site Reliability Engineering • Automation • Observability • Cloud Infrastructure • CI/CD • Security Compliance  
-**Additional Knowledge:** Data Structures & Algorithms • Networking • Software Development Lifecycle (SDLC)  
+**Databases:** Oracle • PostgreSQL • MongoDB • MySQL • SQL Server  
+**Focus Areas:** Site Reliability Engineering • Automation • Cloud Infrastructure • CI/CD • Monitoring & Observability • Security Compliance  
+**Additional Knowledge:** Data Structures & Algorithms • Networking • Software Development Lifecycle (SDLC)
 
 ---
 
@@ -46,26 +30,27 @@ I’m a **Systems Engineer & Cybersecurity Student** passionate about building a
 
 **B.S. Cybersecurity & Information Assurance**, Western Governors University  
 *(Expected Graduation – Dec 2026)*  
+
 **Relevant Coursework:** Cloud & Virtualization • Scripting & Automation • Database Management • DevOps & CI/CD • Systems Reliability & Monitoring • Data Structures & Algorithms  
 
 ---
 
 ### 🚀 What I’m Working On  
 
-- Building **Python-based automation projects** for observability and infrastructure efficiency.  
-- Learning **Kubernetes**, **Terraform**, and advanced **SRE reliability metrics**.  
-- Expanding my experience in **incident response automation** and **AIOps engineering**.  
+- Building **Python-based automation projects** for cloud and observability systems.  
+- Expanding my skills in **Kubernetes, Terraform**, and advanced **monitoring pipelines**.  
+- Learning more about **AIOps**, **incident response automation**, and **system resilience**.  
 
 ---
 
 ### 🌐 Connect  
 
-💼 [LinkedIn](https://www.linkedin.com/in/godspowerirefin/) | 📧 irefingodspower1@email.com | 🌎 [BizFlowAI.org](https://bizflowai.org)
+💼 [LinkedIn](https://www.linkedin.com/in/godspowerirefin/) | 📧 irefingodspower1@email.com |
 
 ---
 
 <details>
-  <summary>📈 Some GitHub Stats & Highlights</summary>
+  <summary>📈 GitHub Stats</summary>
   <br>
 
 <p align="center">
@@ -79,7 +64,7 @@ I’m a **Systems Engineer & Cybersecurity Student** passionate about building a
 ---
 
 <p align="center">
-  <i>Take a look at my repositories and let's connect!</i>
+  <i>Thanks for visiting my profile — feel free to explore my projects!</i>
 </p>
 
 <p align="center">
