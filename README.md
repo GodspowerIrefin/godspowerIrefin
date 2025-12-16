@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I’m a **Systems Engineer & Cybersecurity Student** focused on building **automated, reliable, and scalable systems** through cloud infrastructure, observability, and DevOps principles.
+I’m an **Aspiring Site Reliability / DevOps Engineer** and **Cybersecurity & Information Assurance student** focused on **building automated, secure, reliable, and scalable systems**. Through internships, hands-on projects, and continuous learning, I’ve developed experience in **cloud infrastructure, observability, incident response readiness, and automation**—with a reliability-first mindset.
 
 ---
 
